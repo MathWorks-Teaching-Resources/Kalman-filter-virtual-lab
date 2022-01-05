@@ -5,4 +5,4 @@ L = 0.5;    % Pendulum length [m]
 g = 9.81;   % Gravity [m/s^2]
 end
 
-% Copyright 2021 The MathWorks, Inc.
+% Copyright 2022 The MathWorks, Inc.

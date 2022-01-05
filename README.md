@@ -28,4 +28,4 @@ MATLAB, Simulink, Control System Toolbox™, Simscape™, Simscape Multibody™
 
 The lab solutions are available upon instructor request. Contact us [here](mailto:mulusoy@mathworks.com) if you would like to request solutions or have a question about the lab.
 
-*Copyright 2021 The MathWorks, Inc.*
+*Copyright 2022 The MathWorks, Inc.*
