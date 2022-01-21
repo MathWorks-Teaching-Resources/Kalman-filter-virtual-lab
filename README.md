@@ -5,7 +5,7 @@ The Kalman Filter virtual laboratory contains interactive exercises that let you
 The lab solutions are available upon instructor request. If you would like to request solutions, find an issue, or have a suggestion, contact us [here](mailto:mulusoy@mathworks.com).
 
 
-![]<img src="animations/animation.gif" width="600">
+<img src="animations/animation.gif" width="600">
 
 ## Learning Goals
 - Simulate a simple pendulum and visualize its swing motion
