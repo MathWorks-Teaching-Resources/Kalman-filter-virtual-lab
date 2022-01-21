@@ -1,4 +1,4 @@
-# Kalman Filter Virtual Lab
+# Kalman Filter Virtual Lab [![View Kalman Filter Virtual Lab on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/105525-kalman-filter-virtual-lab)
 
 The Kalman Filter virtual laboratory contains interactive exercises that let you study linear and extended Kalman filter design for state estimation of a simple pendulum system. The virtual lab lets you visulize pendulum dynamics using 3D simulations and animations (see below).
 
