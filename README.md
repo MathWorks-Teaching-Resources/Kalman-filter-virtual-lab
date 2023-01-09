@@ -20,8 +20,8 @@ To get started with the Kalman filter virtual lab, double-click the project.prj 
 
 ## Suggested Prework
 - [Kalman Filter Tech Talks](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr) help students gain insights into why engineers use Kalman filters, how Kalman filter state estimation algorithm works and the different types of optimal state estimators such as extended, unscented Kalman filters and particle filters.
-- [MATLAB Onramp](https://www.mathworks.com/learn/tutorials/matlab-onramp.html) – a free two-hour introductory tutorial that teaches the essentials of MATLAB.
-- [Simulink Onramp](https://www.mathworks.com/learn/tutorials/simulink-onramp.html) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
+- [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) – a free two-hour introductory tutorial that teaches the essentials of MATLAB.
+- [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) – a free three-hour introductory tutorial that teaches the essentials of Simulink.
 
 ## Products
 MATLAB, Simulink, Control System Toolbox™, Simscape™, Simscape Multibody™
