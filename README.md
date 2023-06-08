@@ -29,7 +29,7 @@ MATLAB, Simulink, Control System Toolbox™, Simscape™, Simscape Multibody™
 ## Educator Resources
 - [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
 - [Teaching Modeling and Controls using MATLAB Live Scripts](https://www.mathworks.com/videos/teaching-modeling-and-controls-with-the-matlab-live-editor-1623992486476.html?s_tid=srchtitle_teaching%20modeling%20and%20controls_1)
-- [Virtual Labs and Projects with MATLAB and Simulink](https://www.mathworks.com/academia/online-teaching/virtual-labs.html](https://www.mathworks.com/academia/educators/resources.html)
+- [Virtual Labs and Projects with MATLAB and Simulink](https://www.mathworks.com/academia/educators/resources.html)
 
 The lab solutions are available upon instructor request. Contact us [here](mailto:mulusoy@mathworks.com) if you would like to request solutions or have a question about the lab.
 
