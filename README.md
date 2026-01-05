@@ -27,7 +27,7 @@ To get started with the Kalman filter virtual lab, double-click the project.prj 
 MATLAB, Simulink, Control System Toolbox™, Simscape™, Simscape Multibody™
 
 ## Educator Resources
-- [Controls courseware](https://www.mathworks.com/academia/courseware/teaching-controls-with-matlab-and-simulink.html)
+- [Controls courseware](https://www.mathworks.com/solutions/control-systems/teaching-control-systems.html)
 - [Teaching Modeling and Controls using MATLAB Live Scripts](https://www.mathworks.com/videos/teaching-modeling-and-controls-with-the-matlab-live-editor-1623992486476.html?s_tid=srchtitle_teaching%20modeling%20and%20controls_1)
 - [Virtual Labs and Projects with MATLAB and Simulink](https://www.mathworks.com/academia/educators/resources.html)
 
